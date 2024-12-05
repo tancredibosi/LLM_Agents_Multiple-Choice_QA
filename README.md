@@ -39,3 +39,4 @@ The multi-agent system is composed of 4 agents:
     * pandas
  * normattiva_scraper.py (file slightly changed) in the same folder of the notebook
  * mcqa_codice_penale.json in the same folder of the notebook
+ * "chromedriver" in "/usr/local/bin/" (MAC OS)
