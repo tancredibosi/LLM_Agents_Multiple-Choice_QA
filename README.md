@@ -12,9 +12,16 @@ The aim of the project is to improve the performances of the LLM without trainin
 
 ## Project Structure
 **Agent library**: langroid <br>
-**Open-source provider**: Ollama
-**LLM**: Phi-3.5
+**Open-source provider**: Ollama <br>
+**LLM**: Phi-3.5 <br>
 
+The multi-agent system is composed of 4 agents:
+ * **ReferenceFinder**: agent that finds references in the given question, or searchs for them on Google if there are not in the question. <br>Methods:
+   * **find_legal_references**: checks for legal references in the input string using regex.
+   * **search_web_for_references**: Formulates a Google search query, scrapes titles and descriptions of search results and calls **find_legal_references**
+   * **process_question**: agent's policy that calls **find_legal_references** and, if no reference is found, calls **search_web_for_references**. It than outputs the reference found.
+ * **NormattivaExpert**: agent responsible to call the NormattivaScraper script to find legal text on https://www.normattiva.it given the input reference. <br>NOTE: NormattivaScraper has been modified to find also the articles of "Codce Penale".
+ * ****:
 
 Metodo:
 Utilizzo di OpenAI Swarm [GitHub,Esempio Financial Analysis]
