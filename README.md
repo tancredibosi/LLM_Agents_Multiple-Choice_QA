@@ -21,17 +21,21 @@ The multi-agent system is composed of 4 agents:
    * **search_web_for_references**: Formulates a Google search query, scrapes titles and descriptions of search results and calls **find_legal_references**
    * **process_question**: agent's policy that calls **find_legal_references** and, if no reference is found, calls **search_web_for_references**. It than outputs the reference found.
  * **NormattivaExpert**: agent responsible to call the NormattivaScraper script to find legal text on https://www.normattiva.it given the input reference. <br>NOTE: NormattivaScraper has been modified to find also the articles of "Codce Penale".
- * ****:
+ * **AnswerScraper**: agent that reformulates the input question, performs a Google search, and produces an answer based on them.<br>Methods:
+   * **search_google**: performs a Google search given the query and returns the top-5 results
+   * **clean_data**: cleans the content of the Google searches given in input and returns a list of dictionaries
+   * **find_unique_answer**: gives the question and the data found on Google to the LLM and outputs a unique answer to the question.
+   * **get_answer**: policy to perform the whole task using the methods explained before
+ * **AnswerCompiler**: agent that takes the input (question, choices, legal text, Google answer) to make it process to an LLM and then extracts the answered choice from the LLM response: 1,2, 3 or 0 (if None is found)
 
-Metodo:
-Utilizzo di OpenAI Swarm [GitHub,Esempio Financial Analysis]
-Sostituire l'utilizzo di modelli closed richiedenti OpenAI API Key con modelli open-source ad accesso gratuito [Esempio Ollama]; si consiglia l'uso di Phi-3-Mini.
-4 agenti previsti
-Ricerca Riferimenti: agente preposto all'individuazione di riferimenti normativi rilevanti per la classificazione della risposta; laddove menzionati direttamente nella domanda, estrarli (es. tool regex), in caso contrario, formulare una query su Google per la ricerca di riferimenti normativi utili.
-Nota: tutte le istanze del benchmark fornito riportano il riferimento normativo in chiaro nella domanda; tuttavia, si richiede comunque l'implementazione della ricerca sul Web al fine di fronteggiare scenari applicativi reali e benchmark alternativi.
-Esperto Normattiva: agente preposto al recupero di un testo normativo partendo dal suo riferimento (es. numero, anno).
-Utilizzo di Normattiva come banca dati completa e autorevole.
-Si allega [script] per l'implementazione del tool riferimento→testo mediante scraping.
-Ricerca Risposta: agente finalizzato a riformulare la domanda in una query Google per l'individuazione della risposta corretta.
-Formulazione Risposta: utilizzo di testi recuperati da Normattiva [Esperto Normattiva] e Google [Ricerca Risposta] per generazione dell'output.
-Valutazione dell'Accuracy sul benchmark fornito.
+## Requirements
+ * python 3.11
+ * libraries:
+    * langroid
+    * ftfy
+    * selenium
+    * bs4
+    * numpy
+    * pandas
+ * normattiva_scraper.py (file slightly changed) in the same folder of the notebook
+ * mcqa_codice_penale.json in the same folder of the notebook
