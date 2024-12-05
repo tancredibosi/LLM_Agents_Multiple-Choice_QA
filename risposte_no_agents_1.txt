@@ -1,0 +1,1070 @@
+DOMANDA 0: le prove sono ammesse a richiesta di parte ex art. 190 c.p.p. il giudice:
+SCELTE:
+1) provvede entro trenta giorni con ordinanza comprendendo anche le prove manifestamente superflue o irrilevanti per stralciarle in sede di udienza
+2) provvede senza ritardo con ordinanza escludendo le prove vietate dalla legge e quelle che manifestamente sono superflue o irrilevanti
+3) provvede senza ritardo con decreto escludendo le prove vietate dalla legge e quelle che manifestamente sono superflue
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2) provvede senza ritardo con ordinanza escludendo le prove vietate dalla legge e quelle che manifestamente sono superflue o irrilevanti.
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 1/1
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 1: la remissione della querela ex art. 152 c.p. è processuale o extraprocessuale. la remissione extraprocessuale è:
+SCELTE:
+1) diretta o indiretta
+2) verbale o scritta
+3) espressa o tacita
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 2/2
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 2: nell'ambito del procedimento amministrativo quale è il termine previsto dall'art. 73 c.p.a. per il deposito di memorie? 
+SCELTE:
+1) quaranta giorni liberi prima dell'udienza. 
+2) trenta giorni liberi prima dell'udienza. 
+3) venti giorni liberi prima dell'udienza. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 3/3
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 3: chiunque contraffà il sigillo dello stato, destinato a essere apposto sugli atti del governo, ovvero, non essendo concorso nella contraffazione, fa uso di tale sigillo da altri contraffatto è punito ex art. 467 c.p.:
+SCELTE:
+1) con la reclusione da tre a sei mesi e con la multa da euro 10 a euro 1.024
+2) con la reclusione da sei a dodici anni e con la multa da euro 516 a euro 5.021
+3) con la reclusione da tre a sei anni e con la multa da euro 103 a euro 2.065
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 4/4
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 4: quale tipologia di reati tratta il codice penale all'art. 39?
+SCELTE:
+1) solo delitti.
+2) delitti e contravvenzioni.
+3) delitti, contravvenzioni ed illeciti amministrativi.
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 5/5
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 5: a norma di quanto dispone l'art. 133 del c.p.a., salvo ulteriori previsioni di legge, a chi sono devolute le controversie aventi ad oggetto i provvedimenti relativi alla disciplina o al divieto dell'esercizio d'industrie insalubri o pericolose? 
+SCELTE:
+1) alla giurisdizione esclusiva del giudice ordinario. 
+2) alla giurisdizione esclusiva del giudice amministrativo. 
+3) alla giurisdizione esclusiva del tar del lazio. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 6/6
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 6: nella flagranza del reato o nel caso di evasione, ex art. 352 c.p.p. gli ufficiali di polizia giudiziaria procedono:
+SCELTE:
+1) a perquisizione locale quando hanno fondato motivo di ritenere che ivi si trovi la persona sottoposta alle indagini
+2) a perquisizione personale quando hanno fondato motivo di ritenere che sulla persona si trovino occultate indizi pertinenti al reato che possono essere consumati o ingoiati
+3) a perquisizione generale quando hanno fondato motivo di ritenere che all'interno di una struttura o complesso si trovi l'evaso
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 6/7
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 7: l'art. 6 della l. n. 241 1990, in sede di specificazione dei compiti primari del responsabile del procedimento, dispone espressamente che il responsabile: 
+SCELTE:
+1) non è competente all'adozione del provvedimento finale. 
+2) propone l'indizione o, avendone la competenza, indice le conferenze di servizi. 
+3) può chiedere il rilascio di dichiarazioni, ma non la rettifica di istanze incomplete. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 7/8
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 8: l'indulto o la grazia condona, in tutto o in parte, la pena inflitta. inoltre, ex art. 174 c.p.: 
+SCELTE:
+1) non estingue le pene accessorie, salvo che il decreto disponga diversamente
+2) estingue le misure cautelari, salvo che il procuratore disponga diversamente
+3) non estingue le pene accessorie in nessun caso
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1) non estingue le pene accessorie, salvo che il decreto disponga diversamente
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 8/9
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 9: quali tra questi non sono ufficiali di polizia giudiziaria ex art. 57 c.p.p.?
+SCELTE:
+1) i sovrintendenti
+2) i commissari
+3) i carabinieri
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 8/10
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 10: il giudice al quale viene presentato l'arrestato ex art. 558 c.p.p. autorizza l'ufficiale o l'agente di polizia giudiziaria:
+SCELTE:
+1) alla lettura del verbale e quindi sente l'arrestato per la verifica dei suoi diritti
+2) a una relazione orale e quindi sente l'arrestato per la convalida dell'arresto
+3) a un resoconto breve e quindi sente il difensore per la convalida dell'arresto
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 9/11
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 11: cosa dispone l'art. 67 del d.p.r. n. 445 2000 con riferimento al trasferimento dei documenti all'archivio di deposito? 
+SCELTE:
+1) il responsabile del servizio per la gestione dei flussi documentali e degli archivi deve formare e conservare un elenco dei fascicoli e delle serie trasferite nell'archivio di deposito. 
+2) almeno una volta ogni sei mesi il responsabile del servizio per la gestione dei flussi documentali e degli archivi deve provvedere a trasferire fascicoli e serie documentarie relativi a procedimenti conclusi in un apposito archivio di deposito costituito presso ciascuna amministrazione. 
+3) a fine anno tutti i fascicoli e serie documentarie relativi a procedimenti conclusi 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2) almeno una volta ogni sei mesi il responsabile del servizio per la gestione dei flussi documentali e degli archivi deve provvedere a trasferire fascicoli e serie documentarie relativi a procedimenti conclus
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 9/12
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 12: a norma di quanto dispone l'art. 16 del d.lgs. n. 175 2016, quale percentuale del fatturato delle società in house deve essere effettuato nello svolgimento dei compiti ad esse affidati dall'ente pubblico o dagli enti pubblici soci? 
+SCELTE:
+1) oltre il settanta per cento. 
+2) oltre l'ottanta per cento. 
+3) oltre il novanta per cento. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 9/13
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 13: a norma del disposto di cui al comma 1, art. 21 del d.lgs. n. 165 2001 il mancato raggiungimento degli obiettivi accertato attraverso le risultanze del sistema di valutazione di cui al titolo ii del d.lgs. n. 150 2009 in materia di ottimizzazione della produttività del lavoro pubblico e di efficienza e trasparenza delle p.a. ovvero l'inosservanza delle direttive imputabili al dirigente comportano: 
+SCELTE:
+1) la cancellazione dal ruolo dei dirigenti. 
+2) l'impossibilità di rinnovo dello stesso incarico dirigenziale. 
+3) il decurtamento della retribuzione di risultato di una quota fino all'80 . 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 9/14
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 14: l'imputato a cui è stato notificato il decreto di giudizio immediato può chiedere l'applicazione della pena a norma dell'art. 444 c.p.p.?
+SCELTE:
+1) no, ma può chiedere il giudizio abbreviato 
+2) no, non può chiedere alcun cambio di procedimento
+3) sì, ha questo diritto
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 10/15
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 15: le risorse derivanti da tributi propri, compartecipazioni e fondo perequativo servono a comuni, province, città metropolitane e regioni per (art. 119 della costituzione):
+SCELTE:
+1) finanziare integralmente le funzioni pubbliche loro attribuite
+2) finanziare solo in modo parziale le funzioni pubbliche loro attribuite
+3) finanziare le funzioni fondamentali
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 10/16
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 16: gli artt. 4 e 5 della l. n. 241 1990 disciplinano il processo di individuazione dell'unità organizzativa responsabile e del responsabile del procedimento. indicare quale affermazione in merito è corretta. 
+SCELTE:
+1) l'unità organizzativa competente e il nominativo del responsabile del procedimento sono comunicati ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti ed a quelli che per legge debbono intervenire e, a richiesta, a chiunque vi abbia interesse. 
+2) fino a quando non sia effettuata l'assegnazione del responsabile del procedimento è considerato responsabile l'organo di governo dell'amministrazione. 
+3) le leggi della repubblica determinano per ciascun tipo di procedimento di competenza 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 11/17
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 17: dispone l'art. 20 della legge n. 241 1990 che nei procedimen ti ad istanza di parte per il rilascio di provvedimenti amministrativi il silenzio dell'amministrazione competente equivale a provvedimento di accoglimento della domanda, senza necessità di ulterior i istanze o diffide, se....
+SCELTE:
+1) la medesima amministrazione non comunica all'interessato, ne l termine di sessanta giorni dal ricevimento della domanda, il provvedimento di diniego.
+2) la medesima amministrazione non comunica all'interessato, nel te rmine di novanta giorni dal ricevimento della domanda (salvo che non sia stabilito un termine diverso da regolamenti e disposizioni legislative), il provvedimento di diniego.
+3) la medesima amministrazione non indice, entro sessanta giorni dalla presentazione dell'istanza, una conferenza di servizi.
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 12/18
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 18: ai sensi dell'art. 22, d.lgs. n. 165 del 2001, e successive modificazion i ed integrazioni, i comp onenti del comitato dei garanti sono nominati....
+SCELTE:
+1) con decreto del presidente del consiglio dei ministri.
+2) con decreto del ministro della funzione pubblica.
+3) con decreto del ministro del lavoro.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 12/19
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 19: ai sensi dell'art. 35, comma 2, del d.lgs. n. 165 2001, e succ. mod. ed integr., le assunzioni obbligatorie da parte delle amministrazioni pubbliche, aziende ed enti pubblici dei sogge tti di cui alla legge 12 marzo 1999, n. 68, avvengono per chiamata numerica degli iscritti nelle liste di collocamento ai sensi della vigente normativa...
+SCELTE:
+1) previa verifica della presenza in pianta organica di posti liberi.
+2) previa verifica della compatibilità della invalidità con le mansioni da svolgere.
+3) previa verifica della copertura finanziaria.
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 12/20
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 20: la querela ex art. 123 c.p. si estende di diritto:
+SCELTE:
+1) a coloro che hanno venduto i mezzi per il reato
+2) agli ascendenti di coloro che hanno commesso il reato
+3) a tutti coloro che hanno commesso il reato
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 13/21
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 21: chi è citato come responsabile civile ex art. 84 c.p.p.:
+SCELTE:
+1) può costituirsi in ogni stato e grado del processo, anche a mezzo di procuratore speciale, con dichiarazione depositata nella cancelleria del giudice che procede
+2) deve costituirsi entro il secondo grado del processo, solamente a mezzo di procuratore speciale, con dichiarazione depositata nell'ufficio del procuratore che procede
+3) deve costituirsi entro il primo grado del processo, anche a mezzo di procuratore speciale, con dichiarazione depositata nella cancelleria del giudice che procede
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 13/22
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 22: per i minori degli anni quattordici e per gli interdetti a cagione di infermità di mente, il diritto di remissione della querela ex art. 153 c.p. è esercitato:
+SCELTE:
+1) dal loro curatore
+2) dal loro tutore
+3) dal loro legale rappresentante
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 13/23
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 23: il termine per fare dichiarazioni, depositare documenti o compiere altri atti in un ufficio giudiziario si considera scaduto ex art. 172 c.p.p. nel momento in cui, secondo i regolamenti:
+SCELTE:
+1) l'ufficio affigge la notifica di scadenza nella bacheca esterna
+2) il dirigente dichiara o notifica la conclusione del termine
+3) l'ufficio viene chiuso al pubblico
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  2) il dirigente dichiara o notifica la conclusione del termine.
+
+
+domanda: Secondo le regole di procedura civile, quando un processo è considerato scaduto a causa della mancata az
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 13/24
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 24: il comma 1 dell'art. 2 della l. n. 241 1990 prevede l'obbligo di conclusione esplicita del procedimento amministrativo: 
+SCELTE:
+1) solo quando il procedimento debba essere iniziato d'ufficio per iniziativa di altra 
+2) sia quando esso consegua obbligatoriamente ad istanza ovvero sia quando sia iniziato d'ufficio. 
+3) solo quando esso consegua ad istanza o ad una denuncia. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 14/25
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 25: ai sensi dell'art. 178 c.p.p., l'osservanza delle disposizioni concernenti il numero dei giudici necessari per costituire i collegi è prescritta:
+SCELTE:
+1) a pena di nullità assoluta
+2) a pena di inefficacia
+3) a pena di annullabilità
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 15/26
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 26: a norma del disposto di cui all'art. 1, l. 400 1988, il decreto di nomina del presidente del consiglio dei ministri è controfirmato: 
+SCELTE:
+1) dallo stesso presidente del consiglio dei ministri, insieme ai decreti di accettazione delle dimissioni del precedente governo. 
+2) dal ministro della giustizia, insieme ai decreti di accettazione delle dimissioni del precedente governo. 
+3) dai presidenti delle camere, insieme ai decreti di accettazione delle dimissioni del 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 15/27
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 27: se è stato notificato il decreto di giudizio immediato fino a quando l'imputato può formulare la richiesta di applicazione della pena ai sensi dell'art. 444 c.p.p.?
+SCELTE:
+1) entro venti giorni dalla notificazione del decreto depositando la richiesta nella cancelleria del giudice per le indagini preliminari con la prova della avvenuta notifica al pubblico ministero
+2) entro venti giorni dalla notificazione del decreto depositando la richiesta nella cancelleria del dibattimento con la prova della avvenuta notifica al pubblico ministero
+3) entro quindici giorni dalla notificazione del decreto depositando la richiesta nella cancelleria del giudice per le indagini preliminari con la prova della avvenuta notifica al pubblico ministero
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 16/28
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 28: durante la decorrenza del termine fissato al pubblico ministero per acconsentire o dissentire alla richiesta di applicazione della pena a norma dell'art. 444 c.p.p., l'imputato può revocare detta richiesta?
+SCELTE:
+1) no, mai
+2) sì, sempre
+3) sì, ma solo previa autorizzazione del giudice per le indagini preliminari
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 16/29
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 29: quale delle seguenti circostanze attenua il reato ex art. 62 c.p.?
+SCELTE:
+1) l'avere agito per suggestione di un capo religioso o politico
+2) l'avere, nei delitti contro il patrimonio, cagionato alla persona offesa dal reato un danno patrimoniale di speciale tenuità
+3) l'avere agito per motivi di particolare valore culturale o religioso
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 17/30
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 30: ai sensi dell'art. 54, comma 7, del d.lgs. n. 165 2001 e succ. mod. e integr. le pubbliche amministrazioni....
+SCELTE:
+1) non possono organizzare attività di formazione del personale per la conoscenza e la corretta applicazione dei codici di comportamento, essendo in conflitto d'interessi.
+2) devono interrogare periodicamen te il personale per verificare la conoscenza e la corretta applicazione dei codici di comportamento.
+3) devono organizzare attività di formazione del personale per la conoscenza e la corretta applicazione dei codici di comportamento.
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 18/31
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 31: tra i vari principi caratterizzanti il procedimento amminist rativo, quelli enunciati dalla legge n. 241 1990 dimostrano come il legislatore abbia inteso modellare l'a zione amministrativa secondo principi e fficientistici e manageriali tipici delle imprese private. dispone infatti l'art. 1 de lla legge n. 241 1990, che l'attività ammi nistrativa persegue i fini determinati dalla legge ed è retta dai criteri di....
+SCELTE:
+1) economicità, di efficacia, di pubblicità e di trasparenza.
+2) economicità, di pubblicità e pari opportunità.
+3) economicità, di efficacia e di trasparenza.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 18/32
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 32: ai sensi dell'art. 154 c.p.p. se si tratta di pubbliche amministrazioni, di persone giuridiche o di enti privi di personalità giuridica, le notificazioni sono eseguite nelle forme stabilite per:
+SCELTE:
+1) il processo penale
+2) il processo amministrativo
+3) il processo civile
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 18/33
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 33: a norma del disposto di cui all'art. 9, l. 400 1988, i ministri senza portafoglio svolgono le funzioni: 
+SCELTE:
+1) loro delegate dal presidente del consiglio dei ministri sentito il consiglio dei ministri. 
+2) loro assegnate da uno o più ministri, su proposta del presidente del consiglio. 
+3) loro assegnate dal consiglio dei ministri. 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 18/34
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 34: l'imputato che deve essere dimesso da un istituto per l'esecuzione di misure di sicurezza, all'atto della scarcerazione o della dimissione ex art. 161 c.p.p. ha l'obbligo di fare:
+SCELTE:
+1) la dichiarazione di domicilio con atto ricevuto a verbale dalla questura responsabile delle misure di sicurezza
+2) la dichiarazione o l'elezione di domicilio con atto ricevuto a verbale dal direttore dell'istituto
+3) l'elezione di domicilio con atto notificato alla cancelleria del tribunale
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2) la dichiarazione o l'elezione di domicilio con atto ricevuto a verbale dal direttore dell'istituto
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 19/35
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 35: con riferimento all'attività consultiva, così come disciplinata dal novellato art. 16 della l. n. 241 1990, esiste un termine cui gli organi consultivi delle p.a. devono attenersi nel rendere i pareri ad essi richiesti? 
+SCELTE:
+1) si, per i pareri obbligatori il termine è di 20 giorni dal ricevimento della richiesta; per i pareri facoltativi gli organi consultivi devono dare immediata comunicazione alle p.a. richiedenti del termine entro il quale il parere sarà reso che comunque non può superare i 20 giorni dal ricevimento della richiesta. 
+2) si, per i pareri obbligatori il termine è di 20 giorni dal ricevimento della richiesta; per i pareri facoltativi è lasciato agli organi consultivi determinare il termine per il rilascio. 
+3) si, per i pareri obbligatori il termine è di 30 giorni dal ricevimento della richiesta; 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 20/36
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 36: in quali di questi casi il giudice non dichiara estinto il procedimento amministrativo (art. 35 c.p.a)? 
+SCELTE:
+1) per perenzione. 
+2) quando il giudizio non viene proseguito o riassunto nel termine perentorio fissato dalla legge o assegnato dal giudice. 
+3) quando il giudizio non è stato instaurato nei confronti di una parte interessata. 
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 20/37
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 37: ai sensi dell'art. 73 della costituzione, le leggi sono promulgate dal presidente della repubblica...:
+SCELTE:
+1) entro un mese dall'approvazione
+2) entro quaranta giorni dall'approvazione
+3) entro quindici giorni dall'approvazione
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 20/38
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 38: l'art. 25 della costituzione disponendo che nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge sancisce uno dei principi fondamentali in materia penale, cosiddetto:
+SCELTE:
+1) principio della funzione rieducativa della pena.
+2) principio di legalità.
+3) principio di offensività.
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 21/39
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 39: se il reato è stato commesso da chi ha compiuto gli anni settanta la sospensione ex art. 163 c.p. puo' essere ordinata quando:
+SCELTE:
+1) si infligga una pena restrittiva della libertà personale non superiore a due anni e sei mesi
+2) si infligga una pena restrittiva della libertà personale non superiore a due anni
+3) si infligga una pena restrittiva della libertà personale non superiore a due anni e dieci mesi
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 21/40
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 40: ai sensi dell'art. 31 c.p. l'interdizione temporanea dai pubblici uffici o dalla professione, arte, industria, o dal commercio o mestiere è conseguente:
+SCELTE:
+1) a ogni condanna per delitti commessi con la violazione dei doveri inerenti ad un pubblico servizio
+2) a ogni condanna per delitti commessi con l'abuso di potestà
+3) a ogni condanna per delitti commessi con la sostituzione di una professione, arte, industria
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 22/41
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 41: il pubblico ministero, anche quando gli atti non sono più coperti da segreto a norma dell'art. 329 c.p.p., può disporre l'obbligo del segreto per singoli atti?
+SCELTE:
+1) sì, quando l'imputato lo consente o quando la conoscenza dell'atto può ostacolare le indagini riguardanti altre persone
+2) sì, ma solo quando l'imputato lo consente
+3) sì, ma solo quando c'è pericolo di inquinamento delle prove
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1) sì, quando l'imputato lo consente o quando la conoscenza dell'atto può ostacolare le indagini riguardanti altre persone.
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 23/42
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 42: gli ufficiali e gli agenti di polizia giudiziaria ex art. 380 c.p.p. procedono all'arresto di chiunque é colto in flagranza:
+SCELTE:
+1) di un delitto non colposo, consumato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel minimo a quattro anni e nel massimo a ventidue anni
+2) di un delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel minimo a cinque anni e nel massimo a venti anni
+3) di un delitto doloso, consumato, per il quale la legge stabilisce la pena della reclusione non inferiore nel minimo a tre anni e nel massimo a venti anni
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 24/43
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 43: ai sensi dell'art. 111 c.p.p. quando la legge richiede la data di un atto, sono indicati:
+SCELTE:
+1) il giorno, il mese, l'anno e il luogo in cui l'atto è compiuto. l'indicazione dell'ora è necessaria solo se espressamente descritta 
+2) il giorno, il mese, l'anno, il luogo e l'ora in cui l'atto è compiuto
+3) il giorno, il mese, l'anno e l'ora in cui l'atto è compiuto. l'indicazione del luogo è necessaria solo se espressamente descritta
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 24/44
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 44: entro quale termine deve essere redatta la sentenza nell'ambito del procedimento amministrativo ai sensi dell'art. 89 c.p.a.? 
+SCELTE:
+1) non oltre il quarantacinquesimo giorno da quello della decisione della causa. 
+2) entro trenta giorni dall'ultima udienza. 
+3) non oltre il sessantesimo giorno da quello della decisione della causa. 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 24/45
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 45: con riferimento alle norme sul procedimento amministrativo chi adotta ogni misura per l'adeguato e sollecito svolgimento dell'istruttoria (comma 1, lett. b), art. 6 l. n. 241 1990)? 
+SCELTE:
+1) il responsabile dell'ufficio di ragioneria. 
+2) il responsabile del procedimento. 
+3) il responsabile dell'ufficio tecnico. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 25/46
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 46: sui provvedimenti emanati a seguito di deliberazione del consiglio dei ministri, la corte dei conti esercita un controllo (art. 3 l.n. 20 1994): 
+SCELTE:
+1) preventivo di legittimità. 
+2) preventivo di legittimità e di merito. 
+3) successivo di legittimità. 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 25/47
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 47: nella comunicazione di avvio del procedimento oltre all'ufficio e alla persona responsabile del procedimento devono essere indicati (art. 8 l.n. 241 1990): 
+SCELTE:
+1) 1) l'amministrazione competente; 2) l'oggetto del procedimento promosso; 3) la data entro la quale deve concludersi il procedimento e i rimedi esperibili in caso di inerzia dell'amministrazione; 4) nei procedimenti ad iniziativa di parte, la data di presentazione della relativa istanza; 5) il nominativo del dirigente dell'urp al quale è possibile rivolgersi. 
+2) 1) l'amministrazione competente; 2) l'oggetto del procedimento promosso; 3) la data entro 
+3) 1) l'amministrazione competente; 2) l'oggetto del procedimento promosso; 3) la data entro la quale deve concludersi il procedimento e i rimedi esperibili in caso di inerzia dell'amministrazione; 4) nei procedimenti ad iniziativa di parte, la data di presentazione della relativa istanza; 5) l'ufficio in cui si può prendere visione degli atti. 
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 26/48
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 48: nell'ambito del procedimento amministrativo è prevista l'abbreviazione dei termini dal codice di procedura amministrativa (art. 53 c.p.a)? 
+SCELTE:
+1) si, in qualsiasi caso, il presidente del tribunale può, su istanza di parte, abbreviare fino alla metà i termini. 
+2) si, in qualsiasi caso, il presidente del tribunale può d'ufficio abbreviare fino alla 
+3) si, nei casi d'urgenza, il presidente del tribunale può, su istanza di parte, abbreviare fino alla metà i termini. 
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 27/49
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 49: ai sensi dell'art. 8 c.p.a. quale è l'autorità giudiziaria competente per le questioni pregiudiziali concernenti lo stato e la capacità delle persone (salvo che si tratti della capacità di stare in giudizio) e la risoluzione dell'incidente di falso? 
+SCELTE:
+1) il consiglio di stato. 
+2) l'autorità giudiziaria ordinaria. 
+3) il tribunale amministrativo regionale. 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 28/50
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 50: secondo l'art. 380 del codice di procedura penale, ricorrendo le condizioni previste dalla legge per procedere all'arresto in flagranza, gli agenti di polizia giudiziaria dovranno procedervi anche se il delitto è solo tentato?
+SCELTE:
+1) no, devono procedere solo se il delitto è consumato
+2) sì, hanno questo obbligo
+3) sì, ma solo se il delitto è permanente
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2) sì, hanno questo obbligo
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 29/51
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 51: ai sensi dell'art. 112 del codice penale, relativo alle circostanze aggravanti nel concorso di persone nel reato, la pena è aumentata:
+SCELTE:
+1) per chi, fuori del caso previsto dall'art. 111 del codice penale, ha determinato a commettere il reato un minore degli anni diciotto o una persona in stato di infermità o di deficienza psichica.
+2) solo per chi ha determinato a commettere il reato un minore degli anni diciotto.
+3) solo per chi ha organizzato la cooperazione nel reato.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 30/52
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 52: chiunque viola i sigilli, per disposizione della legge o per ordine dell'autorità apposti al fine di assicurare la conservazione o la identità di una cosa, è punito ex art. 349 c.p.:
+SCELTE:
+1) con la reclusione da tre a nove anni 
+2) con la reclusione da sei mesi a tre anni e con la multa da euro 103 a euro 1.032
+3) con la reclusione da sei a undici mesi e con la multa da euro 10 a euro 516
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 30/53
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 53: se la querela è stata già proposta ex art. 126 c.p.:
+SCELTE:
+1) la morte della persona offesa non estingue il reato
+2) la morte del reo, avvenuta prima della condanna, non estingue il reato
+3) la morte della persona offesa estingue il reato
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1) la morte della persona offese non estinge il reato
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 31/54
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 54: al di fuori dei casi previsti dall'articolo 511 del codice di procedura penale, la lettura dei verbali e degli altri atti di documentazione delle attività compiute dalla polizia giudiziaria:
+SCELTE:
+1) è facoltativa
+2) è vietata
+3) è prevista
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 31/55
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 55: tra i vari principi caratterizzanti il procedimento amminist rativo, quelli enunciati dalla legge n. 241 1990 dimostrano come il legislatore abbia inteso modellare l'a zione amministrativa secondo principi e fficientistici e manageriali tipici delle imprese private. dispone infatti l'art. 1 de lla legge n. 241 1990, che l'attività ammi nistrativa persegue i fini determinati dalla legge ed è retta dai criteri di....
+SCELTE:
+1) economicità, di efficacia, di pubblicità e di trasparenza.
+2) economicità, di efficacia e di trasparenza.
+3) economicità, di pubblicità e pari opportunità.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 31/56
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 56: (art. 228, d.lgs. 267 2000 e all. 4 2, d.lgs. 118 2011) la ricognizione annuale dei residui attivi da parte dell'ente locale consente di individuare formalmente:
+SCELTE:
+1) i crediti di dubbia e difficile esazione, per i quali si procede all'accantonamento a fondo crediti di dubbia e difficile esigibilità, vincolando a tal fine una quota dell'avanzo di amministrazione
+2) i creditori dell'ente
+3) l'importo da liquidare agli organi istituzionali, le anticipazioni di tesoreria e il compenso all'organo di revisione
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 31/57
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 57: le agenzie di cui all'art. 8 del d.lgs. n. 300 1999: 
+SCELTE:
+1) hanno piena autonomia nei limiti stabiliti dalla legge, sono sottoposte al controllo della corte dei conti ed ai poteri di indirizzo e di vigilanza del ministro. 
+2) hanno piena autonomia nei limiti stabiliti dalla legge, sono sottoposte al controllo della corte dei conti ed ai poteri di indirizzo e di vigilanza del parlamento. 
+3) hanno piena autonomia nei limiti stabiliti dalla legge e non sono sottoposte al controllo 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 32/58
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 58: il giudice ricusato ex art. 37 c.p.p. non può pronunciare nè concorrere a pronunciare sentenza:
+SCELTE:
+1) fino a che non sia intervenuta l'ordinanza che dichiara inammissibile o rigetta la ricusazione
+2) fino a che non sia intervenuto il decreto che dichiara inaccettabile o dichiara nulla la ricusazione
+3) fino a che non sia intervenuto il decreto che dichiara annullabile o rinvia il giudizio di ricusazione
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 32/59
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 59: ai sensi dell'art. 21, comma 1, d.lgs. n. 165 del 2001 , e successive modificazioni ed integrazioni, il mancato raggiungimento degli obiettivi, o l'inosservanza delle direttive imputabili al dirigente, valutati con i sistemi e le garanzie di cui all'art. 5, d.lgs. n. 286 del 19 99, comportano l'impossibilità di rinnovo dello stesso incarico dirigenziale, ferma restando l'eventuale responsabilità disciplinare in base alla disciplina prevista nel contra tto collettivo. inoltre, in relazione alla gravità dei casi, l'amministrazione....
+SCELTE:
+1) può revocare l'incarico, collocando il dirigent e a disposizione dei ruoli di cui all'ar t. 23 dello stesso decreto, ovvero reced ere dal rapporto di lavoro secondo le disposizioni del contratto collettivo.
+2) deve necessariamente recedere dal rapporto di lavoro , secondo le disposizioni del contratto collettivo.
+3) deve necessariamente revocare l'incarico, collocando il dirigente a disposizione dei ruoli di cui all'art. 23 dello stesso decr eto.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 33/60
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 60: ai sensi dell'art. 35 c.p.a. nell'ambito del processo amministrativo il ricorso è improcedibile: 
+SCELTE:
+1) se il giudice accerta la tardività della notificazione. 
+2) quando nel corso del giudizio non è stato integrato il contraddittorio nel termine assegnato, ovvero sopravvengono altre ragioni ostative ad una pronuncia sul merito. 
+3) quando è carente l'interesse o sussistono altre ragioni ostative ad una pronuncia sul 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 34/61
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 61: il giudice, con la sentenza di condanna o con il decreto penale, può disporre, ex art. 133-ter c.p., in relazione alle condizioni economiche del condannato, che la multa o l'ammenda venga pagata:
+SCELTE:
+1) in rate mensili da tre a trenta. ciascuna rata tuttavia non puo' essere inferiore a euro 15
+2) in rate mensili da sei a trenta. ciascuna rata tuttavia non puo' essere inferiore a euro 20
+3) in rate mensili da tre a venti. ciascuna rata tuttavia non puo' essere inferiore a euro 50
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 35/62
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 62: il difensore di ufficio cessa dalle sue funzioni ex art. 97 c.p.p. se:
+SCELTE:
+1) è citato in giudizio dall'imputato o da un suo familiare o affine fino al 2 
+2) viene sottoposto a indagine da parte dello stesso tribunale
+3) viene nominato un difensore di fiducia
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 35/63
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 63: qualora le dichiarazioni sostitutive di certificazioni o dell'atto di notorietà presentino delle irregolarità o delle omissioni rilevabili d'ufficio il funzionario competente a ricevere la documentazione è tenuto a dare notizia all'interessato di tale irregolarità (art. 71 d.p.r. n. 445 2000)? 
+SCELTE:
+1) sì, qualora le irregolarità o le omissioni non costituiscono falsità. l'interessato è tenuto alla regolarizzazione o al completamento della dichiarazione, in mancanza il procedimento non ha seguito. 
+2) no, e in tal caso il procedimento non ha seguito. 
+3) sì, anche qualora le irregolarità o le omissioni costituiscono falsità. l'interessato è tenuto alla regolarizzazione o al completamento della dichiarazione, in mancanza il procedimento non ha seguito. 
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 35/64
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 64: il regime di incompatibilit à, cumulo di impieghi e incarichi, disciplinato per i dipendenti pubblici ex art. 53 del d.lgs. n. 165 2001 e succ. mod. e integr. è sottoposto a deroga....
+SCELTE:
+1) per gli operai delle pubbliche amministrazioni.
+2) per i dirigenti delle pubbliche amministrazioni.
+3) per gli impiegati delle pubbliche amministrazioni.
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 35/65
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 65: l'ufficiale preposto ai servizi di polizia giudiziaria ex art. 59 c.p.p. è responsabile verso: 
+SCELTE:
+1) il procuratore della repubblica presso il tribunale dove ha sede il servizio dell'attività di polizia giudiziaria svolta da lui stesso e dal personale dipendente
+2) il questore dove ha sede il servizio dell'attività di polizia giudiziaria svolta da lui stesso e dal personale locale
+3) il presidente del tribunale dove ha sede il servizio dell'attività di polizia giudiziaria svolta da lui stesso
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 36/66
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 66: ai sensi dell'art. 112 c.p.p. quando l'originale di una sentenza o di un altro atto del procedimento, del quale occorre fare uso, è per qualsiasi causa distrutto, smarrito o sottratto e non è possibile recuperarlo:
+SCELTE:
+1) la copia conforme ha valore di originale ed è posta nell'archivio del tribunale competente per la causa
+2) la copia autentica ha valore di originale
+3) la copia esecutiva ha valore di originale
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 36/67
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 67: gli ufficiali e gli agenti di polizia giudiziaria ex art. 354 c.p.p. curano che:
+SCELTE:
+1) le tracce e le cose pertinenti al reato siano conservate e che lo stato dei luoghi e delle cose non venga mutato prima dell'intervento del pubblico ministero
+2) le tracce e le cose pertinenti alla fuga dell'imputato siano conservate e che lo stato dei luoghi e delle cose non venga mutato prima dell'intervento del pubblico ministero o delegato della procura
+3) gli oggetti o altri mezzi pertinenti alla commissione del reato siano conservati in appositi fascicoli o contenitori
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  2
+
+RISPOSTA FINALE: 2
+
+RISPOSTE CORRETTE: 36/68
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 68: ai sensi dell'art. 35 c.p.a. nell'ambito del processo amministrativo il ricorso è inammissibile: 
+SCELTE:
+1) se il giudice accerta la tardività della notificazione o del deposito. 
+2) quando è carente l'interesse o sussistono altre ragioni ostative ad una pronuncia sul merito. 
+3) quando nel corso del giudizio sopravviene il difetto di interesse delle parti alla 
+RISPOSTA CORRETTA: 2
+
+RISPOSTA LLM:  3
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 36/69
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 69: la relazione sulla performance (art. 10 d.lgs. 150 2009) è adottata: 
+SCELTE:
+1) entro il 30 agosto. 
+2) entro il 31 luglio. 
+3) entro il 30 giugno. 
+RISPOSTA CORRETTA: 3
+
+RISPOSTA LLM:  3) entro il 30 giugno.
+
+RISPOSTA FINALE: 3
+
+RISPOSTE CORRETTE: 37/70
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOMANDA 70: ai sensi dell'art. 5 del c.p. e della giurisprudenza costituzionale è corretto affermare che:
+SCELTE:
+1) l'ignoranza della legge penale non scusa, tranne che si tratti di ignoranza inevitabile.
+2) l'ignoranza della legge penale non può in alcun caso escludere la responsabilità.
+3) l'ignoranza scusa nei delitti ma non nelle contravvenzioni.
+RISPOSTA CORRETTA: 1
+
+RISPOSTA LLM:  1
+
+RISPOSTA FINALE: 1
+
+RISPOSTE CORRETTE: 38/71
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ACCURACY: 53.52%
+
